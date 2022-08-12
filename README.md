@@ -1,13 +1,18 @@
 ![MasterHead](http://1.bp.blogspot.com/-ybg7ac1b-po/U5NutkaHFAI/AAAAAAAAALI/wUaCpWsyBrc/s1600/Tetris+mov.gif)
 <h1 align="center">Hi 👋, I'm Gresham Tembo</h1>
 <h3 align="center">A Front-End Developer with experience in Project Management and UI/UX Design.</h3>
-<img align="right" alt="Coding gif" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif">
+
+
+
 
 - 🌱 I’m looking to learn **ReactJS, APIs**
 
 - 📫 How to reach me **tembogresham@gmail.com**
 
 - ⚡ Fun fact **I'm a self-taught heart surgeon🩺**
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,7 +26,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gresham24&show_icons=true&locale=en&layout=compact" 
         alt="gresham24" /></p>
+        
+        
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gresham24&show_icons=true&locale=en" alt="gresham24" /></p>
+
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gresham24&" alt="gresham24" /></p>
