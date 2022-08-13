@@ -58,18 +58,17 @@ I'm a self-taught heart surgeon🩺
 
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gresham24&show_icons=true&locale=en&layout=compact" alt="gresham24" /></p>  <br /> <br />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gresham24&show_icons=true&locale=en&layout=compact" alt="gresham24" /> <br /> <br />
 
-   <br />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gresham24&" alt="gresham24" /></p> 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gresham24&" alt="gresham24" /></p>   <br /> <br />
+<br />
 
-   <br />
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gresham24&show_icons=true&locale=en" alt="gresham24" /></p>   <br /> <br />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gresham24&show_icons=true&locale=en" alt="gresham24" /></p> 
 
 
+<br />
 
-<p align="center">Enjoy this gif of tetris</p> <br /> <br />
+<p align="center">Enjoy this gif of tetris</p> <br /> 
 
 ![MasterHead](http://1.bp.blogspot.com/-ybg7ac1b-po/U5NutkaHFAI/AAAAAAAAALI/wUaCpWsyBrc/s1600/Tetris+mov.gif)
