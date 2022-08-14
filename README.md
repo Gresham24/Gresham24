@@ -2,25 +2,37 @@
 
 ### **ABOUT ME**
 
-I am a Frontend Developer and UI/UX Designer with professional experience in Project Management. I am always seeking opportunities where I get to challenge myself, learn new things, contribute and keep my fire burning 👨🏾‍💻.
+I am a Frontend Developer and UI/UX Designer with professional experience in Project Management. I am always seeking opportunities where I get to challenge myself, learn new things and contribute👨🏾‍💻.
 
 <br />
 
-### **What's on my 2022 learning🌱 list?**
+### **What's on my learning list?**
 
-- ~Advanced JavaScript~
-- ~GitHub~
-- ~Netlify~
+#### 2022 Learning Roadmap:
+
+- ~HTML~
+- ~CSS~
+- ~Git & Github~
+- ~Netlify & Vercel~
+- ~JavaScript~
 - APIs
+- NodeJs
 - ReactJs
 - TypeScript
-- NodeJs (optional)
+
+#### 2023 Learning Roadmap:
+
+- Testing (Unit, Integration & Functional)
+- CSS Preprocessors
+- Tailwind CSS
+- GraphQL
+- NextJS
 
 <br />
 
 ### **Random Fun fact:**
 
-I'm a self-taught heart surgeon🩺
+I'm a YouTube certified self-taught heart surgeon🩺
 
 <br />
 
@@ -58,9 +70,9 @@ I'm a self-taught heart surgeon🩺
 
 <br />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gresham24&show_icons=true&locale=en&layout=compact" alt="gresham24" /> <br /> <br />
+<p display="block"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gresham24&show_icons=true&locale=en&layout=compact" alt="gresham24" /> </p><br /> <br />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gresham24&" alt="gresham24" /></p> 
+<p display="block"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gresham24&" alt="gresham24" /></p> 
 
 <br />
 
