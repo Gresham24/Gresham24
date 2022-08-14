@@ -4,11 +4,10 @@
 
 I am a Frontend Developer and UI/UX Designer with professional experience in Project Management. I am always seeking opportunities where I get to challenge myself, learn new things and contribute👨🏾‍💻.
 
-<br />
 
-### **What's on my learning list?**
+## **What's on my learning list?**
 
-#### 2022 Learning Roadmap:
+### 2022 Learning Roadmap:
 
 - ~HTML~
 - ~CSS~
@@ -20,15 +19,13 @@ I am a Frontend Developer and UI/UX Designer with professional experience in Pro
 - ReactJs
 - TypeScript
 
-#### 2023 Learning Roadmap:
+### 2023 Learning Roadmap:
 
 - Testing (Unit, Integration & Functional)
 - CSS Preprocessors
 - Tailwind CSS
 - GraphQL
 - NextJS
-
-<br />
 
 <!--
 ### **Random Fun fact:**
@@ -38,16 +35,7 @@ I'm a YouTube certified self-taught heart surgeon🩺
 <br />  -->
 
 
-### **Connect with me:**
-
-<p align="left">
-<a href="https://linkedin.com/in/gresham-tembo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gresham-tembo" height="30" width="40" /></a>
-<a href="https://discord.gg/Gresham#3728" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Gresham#3728" height="30" width="40" /></a>
-</p>
-
-<br />
-
-### **Languages:**
+## **Languages:**
 
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -55,9 +43,7 @@ I'm a YouTube certified self-taught heart surgeon🩺
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 </p>
 
-<br />
-
-### **My Favourite Tools:**
+## **My Favourite Tools:**
 
 <p align="left"> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
@@ -71,8 +57,6 @@ I'm a YouTube certified self-taught heart surgeon🩺
 
 <br />
 
-<p display="block"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gresham24&show_icons=true&locale=en&layout=compact" alt="gresham24" /> </p><br /> <br />
-
 <p display="block"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gresham24&" alt="gresham24" /></p> 
 
 <br />
@@ -85,3 +69,13 @@ I'm a YouTube certified self-taught heart surgeon🩺
 <p align="center">Enjoy this gif of tetris</p> <br /> 
 
 ![MasterHead](http://1.bp.blogspot.com/-ybg7ac1b-po/U5NutkaHFAI/AAAAAAAAALI/wUaCpWsyBrc/s1600/Tetris+mov.gif)
+
+
+## **Connect with me:**
+
+<p align="left">
+<a href="https://linkedin.com/in/gresham-tembo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gresham-tembo" height="30" width="40" /></a>
+<a href="https://discord.gg/Gresham#3728" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Gresham#3728" height="30" width="40" /></a>
+</p>
+
+<br />
