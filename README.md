@@ -30,11 +30,12 @@ I am a Frontend Developer and UI/UX Designer with professional experience in Pro
 
 <br />
 
+<!--
 ### **Random Fun fact:**
 
-I'm a YouTube certified self-taught heart surgeon🩺
+I'm a YouTube certified self-taught heart surgeon🩺 
 
-<br />
+<br />  -->
 
 
 ### **Connect with me:**
