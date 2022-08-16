@@ -75,7 +75,6 @@ I'm a YouTube certified self-taught heart surgeon🩺
 
 <p align="left">
 <a href="https://linkedin.com/in/gresham-tembo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gresham-tembo" height="30" width="40" /></a>
-<a href="https://discord.gg/Gresham#3728" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Gresham#3728" height="30" width="40" /></a>
 </p>
 
 <br />
