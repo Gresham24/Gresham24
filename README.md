@@ -14,7 +14,7 @@ I am a Frontend Developer and UI/UX Designer with professional experience in Pro
 - ~Git & Github~
 - ~Netlify & Vercel~
 - ~JavaScript~
-- APIs
+- ~APIs~
 - NodeJs
 - ReactJs
 - TypeScript
