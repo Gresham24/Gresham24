@@ -2,7 +2,7 @@
 
 ### **ABOUT ME**
 
-I am a Frontend Developer and UI/UX Designer with professional experience in Project Management. I am always seeking opportunities where I get to challenge myself, learn new things and contribute👨🏾‍💻.
+I am a Frontend Developer and UI/UX Designer with professional experience in Project Management. I am always seeking opportunities where I get to challenge myself, learn new things and contribute 👨🏾‍💻.
 
 
 ## **What's on my learning list?**
@@ -15,17 +15,17 @@ I am a Frontend Developer and UI/UX Designer with professional experience in Pro
 - ~Netlify & Vercel~
 - ~JavaScript~
 - ~APIs~
-- NodeJs
-- ReactJs
-- TypeScript
 
 ### 2023 Learning Roadmap:
 
 - Testing (Unit, Integration & Functional)
+- ReactJs
+- NextJS
+- NodeJs
+- TypeScript
 - CSS Preprocessors
 - Tailwind CSS
 - GraphQL
-- NextJS
 
 <!--
 ### **Random Fun fact:**
@@ -40,10 +40,10 @@ I'm a YouTube certified self-taught heart surgeon🩺
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> </a> 
    <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/> </a> 
    <a href="https://phaser.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/phaserio/phaserio-icon.svg" alt="Phaser" width="50" height="50"/> </a> 
-   <a href="https://greensock.com/gsap/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/vvUne__gsap-greensock.svg" alt="GSAP" width="40" height="40"/> </a> 
+   <a href="https://greensock.com/gsap/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/vvUne__gsap-greensock.svg" alt="GSAP" width="45" height="45"/> </a> 
 </p>
 
 ## **My Favourite Tools:**
@@ -59,7 +59,7 @@ I'm a YouTube certified self-taught heart surgeon🩺
    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" height="40"/> </a>
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
    <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/> </a> 
-   <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://logovtor.com/wp-content/uploads/2020/10/vercel-inc-logo-vector.png" alt="Vercel" width="40" height="40"/> </a>
+   <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://logovtor.com/wp-content/uploads/2020/10/vercel-inc-logo-vector.png" alt="Vercel" width="60" height="40"/> </a>
    <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/bjlcA__vitejs.svg" alt="Vite" width="40" height="40"/> </a>
    <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> 
 </p>
