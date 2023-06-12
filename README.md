@@ -2,7 +2,7 @@
 
 ### **ABOUT ME**
 
-I am a Frontend Developer and UI/UX Designer with professional experience in Project Management. I am always seeking opportunities where I get to challenge myself, learn new things and contribute 👨🏾‍💻.
+I am a self-taught Frontend Developer👨🏾‍💻 with a robust background in Project Management📋. Currently working for a German Adtech company where I specialise in building interactive and dynamic web applications that breathe life into ideas. Open to connect, learn, and collaborate on exciting tech projects. Feel free to reach out for tech chatter or coding advice!
 
 
 ## **What's on my learning list?**
@@ -14,17 +14,26 @@ I am a Frontend Developer and UI/UX Designer with professional experience in Pro
 - ~Git & Github~
 - ~Netlify & Vercel~
 - ~JavaScript~
-- ~APIs~
+- ~REST APIs~
 
 ### 2023 Learning Roadmap:
 
-- Testing (Unit, Integration & Functional)
-- ReactJs
+- ~GreenSock~ 
+- ~Phaser~
+- ~Vite~
+- ~GitLab~
+- ~Google Web Designer~
+- ReactJs - _in progress_
+- Testing - _in progress_
+   - Unit
+   - Integration 
+   - Functional
 - NextJS
 - NodeJs
 - TypeScript
 - CSS Preprocessors
 - Tailwind CSS
+- APIs
 - GraphQL
 
 <!--
