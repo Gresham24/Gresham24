@@ -2,7 +2,7 @@
 
 ### **ABOUT ME**
 
-I am a self-taught Frontend Developer👨🏾‍💻 with a robust background in Project Management📋. Currently working for a German Adtech company where I specialise in building interactive and dynamic web applications that breathe life into ideas. Open to connect, learn, and collaborate on exciting tech projects. Feel free to reach out for tech chatter or coding advice!
+I am a self-taught Frontend Developer👨🏾‍💻 with a background in Project Management📋. Currently working for a German Adtech company where I specialise in building interactive and dynamic web applications that breathe life into ideas. Open to connect, learn, and collaborate on exciting tech projects. Feel free to reach out for tech chatter or coding advice!
 
 
 ## **What's on my learning list?**
@@ -23,6 +23,7 @@ I am a self-taught Frontend Developer👨🏾‍💻 with a robust background in
 - ~Vite~
 - ~GitLab~
 - ~Google Web Designer~
+- Firebase - _in progress_
 - ReactJs - _in progress_
 - Testing - _in progress_
    - Unit
@@ -58,18 +59,19 @@ I'm a YouTube certified self-taught heart surgeon🩺
 ## **My Favourite Tools:**
 
 <p align="left"> 
-   <a href="https://asana.com/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/INEAy__asana.svg" alt="asana" width="40" height="40"/> </a> 
-   <a href="https://trello.com/en" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/trello/trello-tile.svg" alt="trello" width="40" height="40"/> </a>
-   <a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/notion-1-1.svg" alt="notion" width="40" height="40"/> </a> 
-   <a href="https://miro.com/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/cp1qJ__miro.svg" alt="Miro" width="40" height="40"/> </a>
-   <a href="https://coda.io/" target="_blank" rel="noreferrer"> <img src="https://www.logo.wine/a/logo/Coda.io/Coda.io-Logo.wine.svg" alt="Coda" width="50" height="50"/> </a>
-   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-   <a href="https://webdesigner.withgoogle.com/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/ZpYtC__google-web-designer.svg" alt="GWD" width="40" height="40"/> </a>
    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" height="40"/> </a>
-   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> </a> 
+   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/bjlcA__vitejs.svg" alt="Vite" width="40" height="40"/> </a>
    <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/> </a> 
    <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://logovtor.com/wp-content/uploads/2020/10/vercel-inc-logo-vector.png" alt="Vercel" width="60" height="40"/> </a>
-   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/bjlcA__vitejs.svg" alt="Vite" width="40" height="40"/> </a>
+   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+   <a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/notion-1-1.svg" alt="notion" width="40" height="40"/> </a> 
+   <a href="https://asana.com/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/INEAy__asana.svg" alt="asana" width="40" height="40"/> </a> 
+   <a href="https://trello.com/en" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/trello/trello-tile.svg" alt="trello" width="40" height="40"/> </a>
+   <a href="https://miro.com/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/cp1qJ__miro.svg" alt="Miro" width="40" height="40"/> </a>
+   <a href="https://coda.io/" target="_blank" rel="noreferrer"> <img src="https://www.logo.wine/a/logo/Coda.io/Coda.io-Logo.wine.svg" alt="Coda" width="50" height="50"/> </a>
+   <a href="https://webdesigner.withgoogle.com/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/ZpYtC__google-web-designer.svg" alt="GWD" width="40" height="40"/> </a>
    <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> 
 </p>
 
