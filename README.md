@@ -5,32 +5,15 @@
 I am a self-taught Frontend Developer👨🏾‍💻 with a background in Project Management📋. Currently working for a German Adtech company where I specialise in building interactive and dynamic web applications that breathe life into ideas. Open to connect, learn, and collaborate on exciting tech projects. Feel free to reach out for tech chatter or coding advice!
 
 
-## **What's on my learning list?**
+## **What's on my learning list for this year?**
 
-### 2022 Learning Roadmap:
-
-- ~HTML~
-- ~CSS~
-- ~Git & Github~
-- ~Netlify & Vercel~
-- ~JavaScript~
-- ~REST APIs~
-
-### 2023 Learning Roadmap:
-
-- ~GreenSock~ 
-- ~Phaser~
-- ~Vite~
-- ~GitLab~
-- ~Google Web Designer~
-- Firebase - _in progress_
-- ReactJs - _in progress_
-- Testing - _in progress_
+- NextJS
+- NodeJs
+- Mongo DB
+- Testing
    - Unit
    - Integration 
    - Functional
-- NextJS
-- NodeJs
 - TypeScript
 - CSS Preprocessors
 - Tailwind CSS
