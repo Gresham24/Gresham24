@@ -1,83 +1,81 @@
-<h1 align="center">Hi 👋🏾, I'm Gresham</h1>
+# Hey there, I'm Gresham! 👋
 
-### **ABOUT ME**
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Frontend+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning" alt="Typing SVG" />
+</div>
 
-I am a self-taught Frontend Developer👨🏾‍💻 with a background in Project Management📋. Currently working for a German Adtech company where I specialise in building interactive and dynamic web applications that breathe life into ideas. Open to connect, learn, and collaborate on exciting tech projects. Feel free to reach out for tech chatter or coding advice!
+## 🚀 About Me
 
+I'm a passionate **Frontend Developer** based in Cape Town, South Africa, with 4+ years of experience in the tech industry. I love building innovative solutions that make a real impact, specialising in **React**, **TypeScript**, and modern web technologies. I also have a noteworthy background experience in **Project and Product Management**📋.
 
-## **What's on my learning list for this year?**
+Currently working as a Software Engineer at **Amasuku Digital**, where I develop custom web applications with cutting-edge design and AI-integrated workflows.
 
-- NextJS
-- NodeJs
-- Mongo DB
-- Testing
-   - Unit
-   - Integration 
-   - Functional
-- TypeScript
-- CSS Preprocessors
-- Tailwind CSS
-- APIs
-- GraphQL
+**Fun fact:** I have a pet goldfish named Sushi 🍤
 
-<!--
-### **Random Fun fact:**
+## 🛠️ Tech Stack
 
-I'm a YouTube certified self-taught heart surgeon🩺 
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<br />  -->
+### Backend & Tools
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
+### Deployment & Hosting
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
-## **Languages:**
+### AI Tools
+![Gemini AI API](https://img.shields.io/badge/-Gemini%20AI%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Magic Patterns](https://img.shields.io/badge/-Magic%20Patterns-FF6B6B?style=for-the-badge&logo=magic&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
-<p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> </a> 
-   <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/> </a> 
-   <a href="https://phaser.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/phaserio/phaserio-icon.svg" alt="Phaser" width="50" height="50"/> </a> 
-   <a href="https://greensock.com/gsap/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/vvUne__gsap-greensock.svg" alt="GSAP" width="45" height="45"/> </a> 
-</p>
-
-## **My Favourite Tools:**
-
-<p align="left"> 
-   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" height="40"/> </a>
-   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> </a> 
-   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/bjlcA__vitejs.svg" alt="Vite" width="40" height="40"/> </a>
-   <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/> </a> 
-   <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://logovtor.com/wp-content/uploads/2020/10/vercel-inc-logo-vector.png" alt="Vercel" width="60" height="40"/> </a>
-   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-   <a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/notion-1-1.svg" alt="notion" width="40" height="40"/> </a> 
-   <a href="https://asana.com/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/INEAy__asana.svg" alt="asana" width="40" height="40"/> </a> 
-   <a href="https://trello.com/en" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/trello/trello-tile.svg" alt="trello" width="40" height="40"/> </a>
-   <a href="https://miro.com/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/cp1qJ__miro.svg" alt="Miro" width="40" height="40"/> </a>
-   <a href="https://coda.io/" target="_blank" rel="noreferrer"> <img src="https://www.logo.wine/a/logo/Coda.io/Coda.io-Logo.wine.svg" alt="Coda" width="50" height="50"/> </a>
-   <a href="https://webdesigner.withgoogle.com/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/ZpYtC__google-web-designer.svg" alt="GWD" width="40" height="40"/> </a>
-   <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> 
-</p>
-
-<br />
-
-<p display="block"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gresham24&" alt="gresham24" /></p> 
-
-<br />
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gresham24&show_icons=true&locale=en" alt="gresham24" /></p> 
+### Project Management & Design
+![Trello](https://img.shields.io/badge/-Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Asana](https://img.shields.io/badge/-Asana-273347?style=for-the-badge&logo=asana&logoColor=white)
+![Mural](https://img.shields.io/badge/-Mural-FF0066?style=for-the-badge&logo=mural&logoColor=white)
+![Slack](https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
-<br />
+## 🚀 Beyond The Code
 
-<p align="center">Enjoy this gif of tetris</p> <br /> 
+When I’m not behind the screen coding, you'll find me facilitating **Indie Hackers meetups** in Cape Town. It’s an awesome space where entrepreneurs, makers, tech enthusiasts, and curious minds come together to share ideas, swap stories, and have meaningful conversations.
 
-![MasterHead](http://1.bp.blogspot.com/-ybg7ac1b-po/U5NutkaHFAI/AAAAAAAAALI/wUaCpWsyBrc/s1600/Tetris+mov.gif)
+🌍 **[Join our Indie Hackers Cape Town meetup](https://www.meetup.com/indie-hackers-cape-town/)** to catch our next meetup and connect with like-minded folks in the Mother City!
 
 
-## **Connect with me:**
 
-<p align="left">
-<a href="https://linkedin.com/in/gresham-tembo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gresham-tembo" height="30" width="40" /></a>
-</p>
+## 📫 Let's Connect!
 
-<br />
+💬 **Have a project you need help with? Want to collaborate on something cool? Got an idea you'd like to bring to life? Or just want to chat?** Hit me up!
+
+<div align="center">
+  
+[![Website](https://img.shields.io/badge/-Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://gresham24.com/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gresham-tembo/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tembogresham@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gresham24&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</div>
+
+<div align="center">
+  💡 <em>"Building the future, one line of code at a time"</em> 💡
+</div>
